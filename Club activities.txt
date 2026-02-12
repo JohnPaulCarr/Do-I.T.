@@ -1,0 +1,13 @@
+LAN party - Pizza night (Starcraft)
+Presenters workshop (Harold Stochr) + (Mike Hamilton)
+Game design
+Self driving RC car - AI automation
+Partitioning drives, dual booting windows/linux - Basic Linux Training/Familarity
+Creating a chatbot engine
+Raspberry pi projects
+Prompt engineering - Learning how to better use AI
+Hackithon
+Public bring pc/laptop for troubleshooting/repair
+Live USB Flashdrive boot
+Web Design - React Basics
+Photo Creation/Video Editing - Photoshop/opensource tools
